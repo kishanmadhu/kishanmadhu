@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
   - mail: kishan.m.madhu@gmail.com
   - LinkedIn: https://www.linkedin.com/in/kishan-madhu
-  - Mobile: +91 9737502343
+  - Mobile: +91 97375 02343
 
 <!---
 kishanmadhu/kishanmadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
