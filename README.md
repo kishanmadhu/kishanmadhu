@@ -7,7 +7,7 @@
   - Mobile: +91 97375 02343
   - LinkedIn: https://www.linkedin.com/in/kishan-madhu
 - Other Profiles:
-  - Leetcode: Mobile: https://leetcode.com/kishan_madhu/
+  - Leetcode: https://leetcode.com/kishan_madhu/
   - HackerRank: https://www.hackerrank.com/kishanmadhu
 
 <!---
